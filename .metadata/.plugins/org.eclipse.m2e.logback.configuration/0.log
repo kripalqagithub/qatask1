@@ -1,0 +1,15 @@
+2018-01-15 13:07:13,745 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DesignHill:DesignHill:0.0.1-SNAPSHOT @ C:\Users\kripal\Documents\qatask1\DesignHillTest\pom.xml.
+2018-01-15 13:07:13,745 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DesignHill:DesignHill:0.0.1-SNAPSHOT @ C:\Users\kripal\Documents\qatask1\DesignHillTest\pom.xml.
+2018-01-15 13:07:20,127 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-15 13:07:20,129 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\main\resources
+2018-01-15 13:07:20,131 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-15 13:07:20,137 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\test\resources
+2018-01-15 13:07:22,034 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DesignHill:DesignHill:0.0.1-SNAPSHOT @ C:\Users\kripal\Documents\qatask1\DesignHillTest\pom.xml.
+2018-01-15 13:07:22,971 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-15 13:07:22,973 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\main\resources
+2018-01-15 13:07:22,975 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-15 13:07:22,977 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\test\resources
+2018-01-15 13:07:24,354 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-15 13:07:24,355 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\main\resources
+2018-01-15 13:07:24,357 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-15 13:07:24,358 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\test\resources
