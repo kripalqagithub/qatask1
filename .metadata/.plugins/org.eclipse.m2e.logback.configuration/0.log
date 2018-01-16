@@ -13,3 +13,12 @@
 2018-01-15 13:07:24,355 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\main\resources
 2018-01-15 13:07:24,357 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-01-15 13:07:24,358 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\test\resources
+2018-01-15 16:00:16,922 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-15 16:00:21,122 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\kripal\Documents\qatask1\DesignHillTest
+2018-01-15 16:00:21,172 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2018-01-15 17:33:20,563 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\kripal\Documents\qatask1\DesignHillTest
+2018-01-15 17:33:20,584 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2018-01-16 11:07:26,185 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-16 11:07:26,210 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\main\resources
+2018-01-16 11:07:26,212 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-16 11:07:26,214 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\test\resources
