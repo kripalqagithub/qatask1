@@ -34,3 +34,11 @@
 2018-02-27 14:45:42,479 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\main\resources
 2018-02-27 14:45:42,481 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-02-27 14:45:42,483 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\test\resources
+2018-03-12 15:44:49,166 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-12 15:44:49,178 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\main\resources
+2018-03-12 15:44:49,180 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-12 15:44:49,181 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\test\resources
+2018-03-12 15:44:51,377 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-12 15:44:51,379 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\main\resources
+2018-03-12 15:44:51,381 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-12 15:44:51,382 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kripal\Documents\qatask1\DesignHillTest\src\test\resources
